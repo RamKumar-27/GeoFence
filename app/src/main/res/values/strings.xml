@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CohesionTask</string>
+    <string name="enable">Enable</string>
+    <string name="cancel">Cancel</string>
+    <string name="geofence_enabled">Geofence Enabled, You will get the Notification once you entered and exit the Location</string>
+    <string name="geofence_error">GeoFence Failure</string>
+    <string name="entered_the_location">Entered the location</string>
+    <string name="exit_the_location">Exit from the location</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384346765849",
+    "project_id": "cohesion-task-a0121",
+    "storage_bucket": "cohesion-task-a0121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384346765849:android:23083cda4ddb406e09c888",
+        "android_client_info": {
+          "package_name": "com.cohesiontask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384346765849-29qd6tk3kips32i32805mp8cvpf25m6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cohesiontask",
+            "certificate_hash": "84b7f881b88a9aec29455157c27d9e48654f910e"
+          }
+        },
+        {
+          "client_id": "384346765849-g14dc8qmnehstskmqlso8mq8380rpf0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGH157DxTVceYPQFvUYUZKwzxP3qhPpEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384346765849-g14dc8qmnehstskmqlso8mq8380rpf0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
